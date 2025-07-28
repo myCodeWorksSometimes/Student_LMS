@@ -1,0 +1,13 @@
+Monday,1,9-A,R-A101,Data Structures,T-102
+Monday,2,10-A,R-A201,Calculus,T-101
+Monday,3,11-B,R-C301,Algorithms,T-105
+Tuesday,1,9-B,R-A102,English Composition,T-104
+Tuesday,2,10-B,R-B202,Physics,T-103
+Tuesday,3,9-A,CS-Lab1,Intro to Programming Lab,T-107
+Wednesday,1,11-A,EE-Lab1,Applied Physics,T-110
+Wednesday,2,10-A,R-A201,English Composition,T-104
+Wednesday,4,9-B,CS-Lab2,Intro to Programming Lab,T-107
+Thursday,1,11-B,R-B203,OOP,T-101
+Thursday,3,9-A,R-A101,Pakistan Studies,T-106
+Friday,1,10-B,EE-Lab2,Basic Electronics Lab,T-109
+Friday,2,11-A,R-C302,Discrete Maths,T-105

@@ -1,0 +1,4 @@
+1753036806,T-102,Ms. Ayesha Khan,2025-07-20,2025-07-21,Family Emergency,Pending,Admin comments here,Principal comments here
+1753814406,T-101,Mr. Zeeshan Alam,2025-07-29,2025-08-01,Conference Attendance,Forwarded to Principal,Looks good.,
+1753555206,T-108,Ms. Hina Jadoon,2025-07-26,2025-07-27,Personal Leave,Approved,Okay.,Approved.
+1754160006,C-201,Nasir Khan,2025-08-02,2025-08-03,Medical Appointment,Rejected,Cannot approve at this time.,Rejected due to staff shortage.

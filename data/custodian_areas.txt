@@ -1,0 +1,5 @@
+C-201,Nasir Khan,Admin Block & Main Entrance
+C-202,Parveen Bibi,Block A (CS Dept)
+C-203,Ghulam Farid,Block B (EE Dept & Labs)
+C-204,Bashir Ahmed,Sports Complex & University Grounds
+C-205,Sajid Ali,Main Gate & Parking
